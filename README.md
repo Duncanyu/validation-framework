@@ -7,10 +7,6 @@
 
 ---
 
-<img width="532" height="2237" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/fe6836ed-0715-40a4-ab99-5a10af26b605" />
-
----
-
 ## Overview
 
 This project is a Python-based desktop validation framework used to compare data between **Teradata** and **Snowflake**. It provides a Tkinter GUI for selecting validation modes, loading configuration files, executing validation jobs, and generating reports for analysis.
